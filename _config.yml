@@ -1,2 +1,9 @@
+title: qgp.io
 theme: jekyll-theme-minimal
 permalink: /blog/:year/:month/:day/:title
+description: |
+  <ul>
+  <li><a href=/>home</a></li>
+  <li><a href=/blog>blog</a></li>
+  <li><a href=/blog>test</a></li>
+  </ul>
